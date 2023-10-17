@@ -1,0 +1,23 @@
+[gd_scene load_steps=2 format=3 uid="uid://b0dfju40n22p8"]
+
+[ext_resource type="Script" path="res://scene/UI/ability_upgrade_card.gd" id="1_mcqil"]
+
+[node name="AbilityUpgradeCard" type="PanelContainer"]
+custom_minimum_size = Vector2(120, 150)
+offset_right = 96.0
+offset_bottom = 150.0
+script = ExtResource("1_mcqil")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="NameLabel" type="Label" parent="VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "ability name"
+
+[node name="DescriptionLable" type="Label" parent="VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "description"
+autowrap_mode = 2
