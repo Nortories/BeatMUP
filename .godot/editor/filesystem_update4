@@ -6,3 +6,11 @@ res://scene/manager/enemy_manager.tscn
 res://scene/game_object/basic_enemy/basic_enemy.tscn
 res://scene/ability/sword_ability/sword_ability.tscn
 res://scene/UI/timer_ui.tscn
+res://scene/ability/sword_ability_controller/sword_ability_controller.tscn
+res://scene/autoload/game_events.tscn
+res://scene/component/health_component.tscn
+res://scene/component/hitbox_component.tscn
+res://scene/component/hurtbox_component.tscn
+res://scene/UI/ability_upgrade_card.tscn
+res://scene/UI/upgrade_screen.tscn
+res://scene/UI/xp_bar.tscn
