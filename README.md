@@ -1,5 +1,5 @@
 
-# [Project Name]: 2D Top-Down Game
+# Beat M up: 2D Top-Down Game
 
 ## Overview
 This is a 2D top-down game, my first project in Godot 4, aimed at learning game development.
